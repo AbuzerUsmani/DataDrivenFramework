@@ -30,7 +30,6 @@ public class BaseTest {
 	 * Properties
 	 * Mail
 	 * JDBC
-	 * 
 	 */
 	public static WebDriver driver;
 	public static ExcelReader excel = new ExcelReader(System.getProperty("user.dir")+"\\src\\test\\resources\\testdata\\testdata.xlsx");
